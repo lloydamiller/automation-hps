@@ -6,7 +6,7 @@ https://api.open.fec.gov/developers/
 import requests
 import csv
 
-base = "https://api.open.fec.gov/v1/"
+base = "https://api.open.fec.gov/v1"
 
 endpoint = "/schedules/schedule_a/"
 
