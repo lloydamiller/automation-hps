@@ -10,7 +10,7 @@ base = "https://api.open.fec.gov/v1/"
 
 endpoint = "/schedules/schedule_a/"
 
-api_key = "3Cyct8saXOvD4WNkT3VTH51uNPCAOA1oMw9HMJ9K"
+api_key = ""
 
 params = {
         "api_key": api_key,
